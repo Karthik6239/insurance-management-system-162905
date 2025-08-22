@@ -1,0 +1,4 @@
+{
+    "command": "mysql -h localhost -u appuser -pdbuser123 -e \"SELECT VERSION()\"",
+    "working_directory": "/home/kavia/workspace/code-generation/insurance-management-system-162905/insurance_management_database"
+}
